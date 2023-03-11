@@ -69,7 +69,7 @@ Project Experience
   * Used Model: Resnet、 MobileNet
   * Rank: TOP 4% (56/1406)
  
- * 06/2021-07/2021: Multiple classifications of Telstra network service outage severity 
+* 06/2021-07/2021: Multiple classifications of Telstra network service outage severity 
   * Responsible for code writing, model training (Kaggle competition)
   * Used Technologies: numpy + pytorch + tqdm + matplotlib + Bayesian optimization + grid search cross-validation
   * Used Model: lightgbm、 catboost
