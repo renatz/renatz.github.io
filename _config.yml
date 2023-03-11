@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chuyi Kong"
   avatar           : "profile.jpg"
-  bio              : ""
+  bio              : "" # ！！以后可以写title
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
