@@ -51,6 +51,7 @@ redirect_from:
   * Used Technologies: ubuntu + git + pytorch + numpy + matplotlib + django + vue + mysql + redis + celery
   * Used Model: seq2seq(encoder: bert + transformer + gru, decoder: gru + transformer + gpt2)
   * [Link](https://renatz.github.io/project/)
+  * [Alternate Link ](https://docs.qq.com/pdf/DQWh1Um1hdURZVFpP)
  
 * 05/2022-06/2022: Food Classification and Network Compression
   * Responsible for code optimization, model training (Kaggle competition)
