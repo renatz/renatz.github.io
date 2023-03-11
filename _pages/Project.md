@@ -1,40 +1,40 @@
 ---
 layout: archive
-title: "Project"
+title: "Recent Project"
 permalink: /project/
 author_profile: true
 ---
 
 {% include base_path %}
 
-# 闲聊机器人大头
+## 闲聊机器人大头
 本机器人原型为网红猫大头，作者非常喜欢头宝，并尝试模拟它的性格，以陪伴广大社恐！
 
 <img src="assets/image-20230211025917123.png" alt="image-20230211025917123" style="zoom:50%;" />
 
-## 1. 预览
+### 1. 预览
 
-### 1.1 首页
+#### 1.1 首页
 
 ![首页](assets/首页.jpg)
 
-### 1.2 聊天页面
+#### 1.2 聊天页面
 
-#### 1.2.1 注册用户
+##### 1.2.1 注册用户
 
 ![image-20230224014850637](assets/image-20230224014850637-16771757580111.png)
 
-#### 1.2.2 游客
+##### 1.2.2 游客
 
 ![image-20230224032738972](assets/image-20230224032738972.png)
 
-### 1.3 个人中心及聊天记录
+#### 1.3 个人中心及聊天记录
 
 ![image-20230224020408663](assets/image-20230224020408663-16771757580112.png)
 
 ![image-20230224201941788](assets/image-20230224201941788.png)
 
-## 2.  技术栈
+### 2.  技术栈
 
 - os：ubuntu
 - 版本控制：git
@@ -45,7 +45,7 @@ author_profile: true
 - 数据库：mysql
 - 中间件：redis
 
-## 3.  模型架构
+### 3.  模型架构
 - v1.0：纯手撕的seq2seq模型(gru + luong attention的general attention + AdamW)
 
 - v2.0：fine-tune预训练模型的seq2seq模型
@@ -56,7 +56,7 @@ author_profile: true
   - 待优化
   - 参考：https://arxiv.org/pdf/1911.04700.pdf
 
-## 4.  项目架构
+### 4.  项目架构
 
 - 整体架构
 
