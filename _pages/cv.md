@@ -44,12 +44,12 @@ Research Interests
 
 Skills
 ======
-* Programming languages : python、 golang、 Java、 cpp、 R、 JavaScript、 html、 css
-* Database： mysql、 redis、 sql-server、 mongodb
-* OS : Linux(Centos/Ubuntu)
-* Libraries/Packages: pytorch、 libtorch、 numpy、 pandas、 sklearn、 flask、 sqlalchemy、 django、 drf、 gin、 gorm
-* ML/DL Model: lr、 xgb、 lgb、 catboost、 resnet、 lstm、 gru、 transformer、 Bert、 autoEncoder、 GAN
-* Software: SPSS、 SASEM、 Tableau
+* Programming languages：python、 golang、 Java、 cpp、 R、 JavaScript、 html、 css
+* Database：mysql、 redis、 sql-server、 mongodb
+* OS：Linux(Centos/Ubuntu)
+* Libraries/Packages：pytorch、 libtorch、 numpy、 pandas、 sklearn、 flask、 sqlalchemy、 django、 drf、 gin、 gorm
+* ML/DL Model：lr、 xgb、 lgb、 catboost、 resnet、 lstm、 gru、 transformer、 Bert、 autoEncoder、 GAN
+* Software：SPSS、 SASEM、 Tableau
 
 Project Experience
 ======
@@ -73,14 +73,14 @@ Project Experience
   * Responsible for code writing, model training (Kaggle competition)
   * Used Technologies: numpy + pytorch + tqdm + matplotlib + Bayesian optimization + grid search cross-validation
   * Used Model: lightgbm、 catboost
-  * Rank: TOP 20% (limited by computing capacity)
+  * Rank：TOP 20% (limited by computing capacity)
  
 Project Overview
 ======
 * Development
   * python: Built full-stack chatbots, back-end web Q&A platform
-  * golang： Built small instant messaging system, back-end blog community
-  * java： Built family income and expenditure bookkeeping system, customer information management system, development team staff scheduling system
+  * golang: Built small instant messaging system, back-end blog community
+  * java: Built family income and expenditure bookkeeping system, customer information management system, development team staff scheduling system
 
 * Algorithm
   * leetcode: 120+, newcoder: 120+
