@@ -5,7 +5,7 @@ permalink: /cv/
 <!-- {% include base_path %} -->
 
 ## Education
-**M.S. in Business and Data Analytics - Information System Management**
+**M.S. in Business and Data Analytics - Information System Stream**
 * City University of Hong Kong, 2021
 * GPA: 3.57/4.3
 * Graduated with distinction
@@ -13,7 +13,7 @@ permalink: /cv/
 * Courses: Data Mining, Big Data & Social Media Analytics, Advanced Software Construction, Statistical Data Analysis, Database Management Systems, Applied Linear Statistical Modelling
 * Domestic Certification: Statistics
 
-**B.S. in Management Science & Engineering - Logistics Management**
+**B.S. in Management Science & Engineering - Supply Chain Direction**
 * Beijing Normal University, Zhuhai, 2019
 * GPA: 3.42/4 
 * Major Rank: 27/225 (top 12%)
