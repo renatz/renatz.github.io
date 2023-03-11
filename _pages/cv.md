@@ -1,21 +1,21 @@
 ---
-layout: archive
+<!-- layout: archive -->
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+<!-- author_profile: true -->
+<!-- redirect_from: -->
+<!--   - /resume -->
 ---
 <!-- {% include base_path %} -->
 
 ## Education
-* M.S. in Business and Data Analytics - Information System Management, City University of Hong Kong, 2021
-  * GPA: 3.57/4.3
-  * Graduated with distinction
-  * Awards: Outstanding Student Gold Award with the highest GPA(3.72/4.3) in Sem A at Major Level
-  * Courses: Data Mining, Big Data & Social Media Analytics, Advanced Software Construction, Statistical Data Analysis, Database Management Systems, Applied Linear Statistical Modelling
-  * Domestic Certification: Statistics
-* B.S. in Management Science & Engineering - Logistics Management, Beijing Normal University, Zhuhai, 2019
+**M.S. in Business and Data Analytics - Information System Management, City University of Hong Kong, 2021**
+* GPA: 3.57/4.3
+* Graduated with distinction
+* Awards: Outstanding Student Gold Award with the highest GPA(3.72/4.3) in Sem A at Major Level
+* Courses: Data Mining, Big Data & Social Media Analytics, Advanced Software Construction, Statistical Data Analysis, Database Management Systems, Applied Linear Statistical Modelling
+* Domestic Certification: Statistics
+**B.S. in Management Science & Engineering - Logistics Management, Beijing Normal University, Zhuhai, 2019**
   * GPA: 3.42/4 
   * Major Rank: 27/225 (top 12%)
   * Awards: Excellent Graduation Thesis at College Level, Third Prize Scholarship at College Level
@@ -23,11 +23,11 @@ redirect_from:
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 ## Research Experience
-* 06/2019 Construction of Logistics Service Quality Model for Used E-Commerce Platforms (Xianyu App)
-  * Preliminarily constructed the evaluation index system in term of SERVQUAL Model, the overall problems of logistics services of second-hand E-commerce platform and the factors in affecting quality
-  * Built the final evaluation index system by Exploratory Factor Analysis (SPSS) through the first questionaire survey about the logistics services quality of second-hand E-commerce platform
-  * Carried out the second questionnaire survey on Xianyu App to evaluate and analyze the logistics service quality by means of Fuzzy Hierarchical Comprehensive Evaluation (SPSS)
-  * Awarded an outstanding thesis at College level
+06/2019 Construction of Logistics Service Quality Model for Used E-Commerce Platforms (Xianyu App)
+* Preliminarily constructed the evaluation index system in term of SERVQUAL Model, the overall problems of logistics services of second-hand E-commerce platform and the factors in affecting quality
+* Built the final evaluation index system by Exploratory Factor Analysis (SPSS) through the first questionaire survey about the logistics services quality of second-hand E-commerce platform
+* Carried out the second questionnaire survey on Xianyu App to evaluate and analyze the logistics service quality by means of Fuzzy Hierarchical Comprehensive Evaluation (SPSS)
+* Awarded an outstanding thesis at College level
 
 ## Research Interests
 * Natural Language Generation - Chatbot with personality
@@ -42,45 +42,45 @@ redirect_from:
 * Software: SPSS, SASEM, Tableau
 
 ## Project Experience
-* 01/2023: Online learning blog community construction
-  * Responsible for web backend implementation 
-  * Used Technologies: gin + gorm + machinery + swagger + mysql + redis + vue
+01/2023: Online learning blog community construction
+* Responsible for web backend implementation 
+* Used Technologies: gin + gorm + machinery + swagger + mysql + redis + vue
 
-* 09/2022-12/2022: Server-side Chatbot "Big Head" v2.0
-  * Responsible for model training, back-end implementation, partial front-end implementation
-  * Used Technologies: ubuntu + git + pytorch + numpy + matplotlib + django + vue + mysql + redis + celery
-  * Used Model: seq2seq(encoder: bert + transformer + gru, decoder: gru + transformer + gpt2)
-  * [Link](https://renatz.github.io/project/)
-  * [Alternate Link ](https://docs.qq.com/pdf/DQWh1Um1hdURZVFpP)
+09/2022-12/2022: Server-side Chatbot "Big Head" v2.0
+* Responsible for model training, back-end implementation, partial front-end implementation
+* Used Technologies: ubuntu + git + pytorch + numpy + matplotlib + django + vue + mysql + redis + celery
+* Used Model: seq2seq(encoder: bert + transformer + gru, decoder: gru + transformer + gpt2)
+* [Link](https://renatz.github.io/project/)
+* [Alternate Link ](https://docs.qq.com/pdf/DQWh1Um1hdURZVFpP)
  
-* 05/2022-06/2022: Food Classification and Network Compression
-  * Responsible for code optimization, model training (Kaggle competition)
-  * Used Technologies: numpy + pytorch + PIL + tqdm + matplotlib
-  * Used Model: Resnet, MobileNet
-  * Rank: TOP 4% (56/1406)
+05/2022-06/2022: Food Classification and Network Compression
+* Responsible for code optimization, model training (Kaggle competition)
+* Used Technologies: numpy + pytorch + PIL + tqdm + matplotlib
+* Used Model: Resnet, MobileNet
+* Rank: TOP 4% (56/1406)
  
-* 06/2021-07/2021: Multiple classifications of Telstra network service outage severity 
-  * Responsible for code writing, model training (Kaggle competition)
-  * Used Technologies: numpy + pytorch + tqdm + matplotlib + Bayesian optimization + grid search cross-validation
-  * Used Model: lightgbm, catboost
-  * Rank: TOP 20% (limited by computing capacity)
+06/2021-07/2021: Multiple classifications of Telstra network service outage severity 
+* Responsible for code writing, model training (Kaggle competition)
+* Used Technologies: numpy + pytorch + tqdm + matplotlib + Bayesian optimization + grid search cross-validation
+* Used Model: lightgbm, catboost
+* Rank: TOP 20% (limited by computing capacity)
  
 ## Project Overview
-* Development
-  * python: Built full-stack chatbots, back-end web Q&A platform
-  * golang: Built small instant messaging system, back-end blog community
-  * java: Built family income and expenditure bookkeeping system, customer information management system, development team staff scheduling system
+**Development**
+* python: Built full-stack chatbots, back-end web Q&A platform
+* golang: Built small instant messaging system, back-end blog community
+* java: Built family income and expenditure bookkeeping system, customer information management system, development team staff scheduling system
 
-* Algorithm
-  * leetcode: 120+, newcoder: 120+
-  * ML: regression, binary classification (rf, lr, fcn), multiclassification (xgb, lgb, catboost)
-  * CV: image recognition (vgg16, resnet18-101), image generation (dcgan, wgan, wgan-gp), anomaly face detection (fcn-ae, cnn-ae, resnet18-ae, vae)
-  * NLP: extractive question-and-answer prediction (bert), conversational bots (gru+luong attention), sentiment analysis
-  * Speech: phoneme recognition (fcn), speaker recognition (transformer, conformer)
-  * Other: transfer learning (DaNN), model compression (knowledge distillation, deep separable networks)
+**Algorithm**
+* leetcode: 120+, newcoder: 120+
+* ML: regression, binary classification (rf, lr, fcn), multiclassification (xgb, lgb, catboost)
+* CV: image recognition (vgg16, resnet18-101), image generation (dcgan, wgan, wgan-gp), anomaly face detection (fcn-ae, cnn-ae, resnet18-ae, vae)
+* NLP: extractive question-and-answer prediction (bert), conversational bots (gru+luong attention), sentiment analysis
+* Speech: phoneme recognition (fcn), speaker recognition (transformer, conformer)
+* Other: transfer learning (DaNN), model compression (knowledge distillation, deep separable networks)
 
-* Database
-  * mysql: designed database with query optimization
+**Database**
+* mysql: designed database with query optimization
 
 ## Language Skills
 *  JLPT-N2
