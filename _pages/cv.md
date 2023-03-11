@@ -10,7 +10,7 @@ redirect_from:
 
 ## Education
 * M.S. in Business and Data Analytics - Information System Management, City University of Hong Kong, 2021
-  * GPA: 3.57/4
+  * GPA: 3.57/4.3
   * Graduated with distinction
   * Awards: Outstanding Student Gold Award with the highest GPA(3.72/4.3) in Sem A at Major Level
   * Courses: Data Mining, Big Data & Social Media Analytics, Advanced Software Construction, Statistical Data Analysis, Database Management Systems, Applied Linear Statistical Modelling
