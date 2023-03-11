@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 ## Education
 * M.S. in Business and Data Analytics - Information System Management, City University of Hong Kong, 2021
