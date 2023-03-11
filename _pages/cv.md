@@ -6,11 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
 
-<!-- {% include base_path %} -->
-
-Education
-======
+## Education
 * M.S. in Business and Data Analytics - Information System Management, City University of Hong Kong, 2021
   * GPA: 3.57/4
   * Graduated with distinction
@@ -24,21 +22,18 @@ Education
   * Courses: Calculus, Operations Research, Linear Algebra, Applied Statistics, Forecasting and Decision Making, Logistics Information Systems, Probability Theory and Mathematical Statistics 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Research Experience
-======
+## Research Experience
 * 06/2019 Construction of Logistics Service Quality Model for Used E-Commerce Platforms (Xianyu App)
   * Preliminarily constructed the evaluation index system in term of SERVQUAL Model, the overall problems of logistics services of second-hand E-commerce platform and the factors in affecting quality
   * Built the final evaluation index system by Exploratory Factor Analysis (SPSS) through the first questionaire survey about the logistics services quality of second-hand E-commerce platform
   * Carried out the second questionnaire survey on Xianyu App to evaluate and analyze the logistics service quality by means of Fuzzy Hierarchical Comprehensive Evaluation (SPSS)
   * Awarded an outstanding thesis at College level
 
-Research Interests
-======
+## Research Interests
 * Natural Language Generation - Chatbot with personality
 * Fraud Detection
 
-Skills
-======
+## Skills
 * Programming languages: python, golang, Java, cpp, R, JavaScript, html, css
 * Database: mysql, redis, sql-server, mongodb
 * OS: Linux(Centos/Ubuntu)
@@ -46,8 +41,7 @@ Skills
 * ML/DL Model: lr, xgb, lgb, catboost, resnet, lstm, gru, transformer, Bert, autoEncoder, GAN
 * Software: SPSS, SASEM, Tableau
 
-Project Experience
-======
+## Project Experience
 * 01/2023: Online learning blog community construction
   * Responsible for web backend implementation 
   * Used Technologies: gin + gorm + machinery + swagger + mysql + redis + vue
@@ -70,8 +64,7 @@ Project Experience
   * Used Model: lightgbm, catboost
   * Rank: TOP 20% (limited by computing capacity)
  
-Project Overview
-======
+## Project Overview
 * Development
   * python: Built full-stack chatbots, back-end web Q&A platform
   * golang: Built small instant messaging system, back-end blog community
@@ -88,13 +81,11 @@ Project Overview
 * Database
   * mysql: designed database with query optimization
 
-Language Skills
-======
+## Language Skills
 *  JLPT-N2
 *  CET-6
 
-Hobbies
-======
+## Hobbies
 *  Animate, Comic, Game, Novel
   
 <!-- Work experience
