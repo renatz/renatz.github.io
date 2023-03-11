@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Project"
+permalink: /project/
+author_profile: true
+---
+
+{% include base_path %}
+
 # 闲聊机器人大头
 本机器人原型为网红猫大头，作者非常喜欢头宝，并尝试模拟它的性格，以陪伴广大社恐！
 
