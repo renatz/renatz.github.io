@@ -1,16 +1,12 @@
 ---
-layout: archive
-title: "Recent Project"
 permalink: /project/
-author_profile: true
+title: "Recent Project"
 ---
-
-{% include base_path %}
-
 ## 闲聊机器人大头
 本机器人原型为网红猫大头，作者非常喜欢头宝，并尝试模拟它的性格，以陪伴广大社恐！
 
-<img src="assets/image-20230211025917123.png" alt="image-20230211025917123" style="zoom:50%;" />
+<!-- <img src="assets/image-20230211025917123.png" alt="image-20230211025917123" style="zoom:50%;" /> -->
+![image-20230211025917123](assets/image-20230211025917123.png)
 
 ### 1. 预览
 
@@ -60,17 +56,21 @@ author_profile: true
 
 - 整体架构
 
-  <img src="assets/整体架构.png" alt="整体架构" style="zoom:50%;" />
+<!--   <img src="assets/整体架构.png" alt="整体架构" style="zoom:50%;" /> -->
+  ![整体架构](assets/整体架构.png)
 
 - 算法架构
 
-<img src="assets/算法架构.png" alt="算法架构" style="zoom:50%;" />
+<!-- <img src="assets/算法架构.png" alt="算法架构" style="zoom:50%;" /> -->
+  ![算法架构](assets/算法架构.png)
 
 - 后端架构
 
-<img src="assets/后端架构.png" alt="后端架构" style="zoom:50%;" />
+<!-- <img src="assets/后端架构.png" alt="后端架构" style="zoom:50%;" /> -->
+  ![后端架构](assets/后端架构.png)
 
 - 前端架构
 
-<img src="assets/前端架构.png" alt="前端架构" style="zoom:50%;" />
+<!-- <img src="assets/前端架构.png" alt="前端架构" style="zoom:50%;" /> -->
+ ![前端架构](assets/前端架构.png)
 
