@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
@@ -15,27 +15,22 @@ Education
   * GPA: 3.57/4
   * Graduated with distinction
   * Awards: Outstanding Student Gold Award with the highest GPA(3.72/4.3) in Sem A at Major Level
-  * Courses: Data Mining, Big Data & Social Media Analytics, Advanced Software Construction, Statistical Data Analysis,
-Database Management Systems, Applied Linear Statistical Modelling
+  * Courses: Data Mining, Big Data & Social Media Analytics, Advanced Software Construction, Statistical Data Analysis, Database Management Systems, Applied Linear Statistical Modelling
   * Domestic Certification: Statistics
 * B.S. in Management Science & Engineering - Logistics Management, Beijing Normal University, Zhuhai, 2019
   * GPA: 3.42/4 
   * Major Rank: 27/225 (top 12%)
   * Awards: Excellent Graduation Thesis at College Level, Third Prize Scholarship at College Level
-  * Courses: Calculus, Operations Research, Linear Algebra, Applied Statistics, Forecasting and Decision Making, Logistics
-Information Systems, Probability Theory and Mathematical Statistics 
+  * Courses: Calculus, Operations Research, Linear Algebra, Applied Statistics, Forecasting and Decision Making, Logistics Information Systems, Probability Theory and Mathematical Statistics 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Research Experience
 ======
 * 06/2019 Construction of Logistics Service Quality Model for Used E-Commerce Platforms (Xianyu App)
-  * Preliminarily constructed the evaluation index system in term of SERVQUAL Model, the overall problems of logistics
-services of second-hand E-commerce platform and the factors in affecting quality;
-  * Built the final evaluation index system by Exploratory Factor Analysis (SPSS) through the first questionaire survey
-about the logistics services quality of second-hand E-commerce platform;
-  * Carried out the second questionnaire survey on Xianyu App to evaluate and analyze the logistics service quality by
-means of Fuzzy Hierarchical Comprehensive Evaluation (SPSS).
-  * Awarded an outstanding thesis at College level. 
+  * Preliminarily constructed the evaluation index system in term of SERVQUAL Model, the overall problems of logistics services of second-hand E-commerce platform and the factors in affecting quality
+  * Built the final evaluation index system by Exploratory Factor Analysis (SPSS) through the first questionaire survey about the logistics services quality of second-hand E-commerce platform
+  * Carried out the second questionnaire survey on Xianyu App to evaluate and analyze the logistics service quality by means of Fuzzy Hierarchical Comprehensive Evaluation (SPSS)
+  * Awarded an outstanding thesis at College level
 
 Research Interests
 ======
@@ -44,12 +39,12 @@ Research Interests
 
 Skills
 ======
-* Programming languages：python、 golang、 Java、 cpp、 R、 JavaScript、 html、 css
-* Database：mysql、 redis、 sql-server、 mongodb
-* OS：Linux(Centos/Ubuntu)
-* Libraries/Packages：pytorch、 libtorch、 numpy、 pandas、 sklearn、 flask、 sqlalchemy、 django、 drf、 gin、 gorm
-* ML/DL Model：lr、 xgb、 lgb、 catboost、 resnet、 lstm、 gru、 transformer、 Bert、 autoEncoder、 GAN
-* Software：SPSS、 SASEM、 Tableau
+* Programming languages: python, golang, Java, cpp, R, JavaScript, html, css
+* Database: mysql, redis, sql-server, mongodb
+* OS: Linux(Centos/Ubuntu)
+* Libraries/Packages: pytorch, libtorch, numpy, pandas, sklearn, flask, sqlalchemy, django, drf, gin, gorm
+* ML/DL Model: lr, xgb, lgb, catboost, resnet, lstm, gru, transformer, Bert, autoEncoder, GAN
+* Software: SPSS, SASEM, Tableau
 
 Project Experience
 ======
@@ -66,14 +61,14 @@ Project Experience
 * 05/2022-06/2022: Food Classification and Network Compression
   * Responsible for code optimization, model training (Kaggle competition)
   * Used Technologies: numpy + pytorch + PIL + tqdm + matplotlib
-  * Used Model: Resnet、 MobileNet
+  * Used Model: Resnet, MobileNet
   * Rank: TOP 4% (56/1406)
  
 * 06/2021-07/2021: Multiple classifications of Telstra network service outage severity 
   * Responsible for code writing, model training (Kaggle competition)
   * Used Technologies: numpy + pytorch + tqdm + matplotlib + Bayesian optimization + grid search cross-validation
-  * Used Model: lightgbm、 catboost
-  * Rank：TOP 20% (limited by computing capacity)
+  * Used Model: lightgbm, catboost
+  * Rank: TOP 20% (limited by computing capacity)
  
 Project Overview
 ======
@@ -88,10 +83,10 @@ Project Overview
   * CV: image recognition (vgg16, resnet18-101), image generation (dcgan, wgan, wgan-gp), anomaly face detection (fcn-ae, cnn-ae, resnet18-ae, vae)
   * NLP: extractive question-and-answer prediction (bert), conversational bots (gru+luong attention), sentiment analysis
   * Speech: phoneme recognition (fcn), speaker recognition (transformer, conformer)
-  * Other: transfer learning (DaNN), model compression (knowledge distillation, deep separable networks).
+  * Other: transfer learning (DaNN), model compression (knowledge distillation, deep separable networks)
 
 * Database
-  * mysql: designed database with query optimization.
+  * mysql: designed database with query optimization
 
 Language Skills
 ======
@@ -100,7 +95,7 @@ Language Skills
 
 Hobbies
 ======
-*  Animate、 Comic、 Game、 Novel
+*  Animate, Comic, Game, Novel
   
 <!-- Work experience
 ======
