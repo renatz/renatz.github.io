@@ -42,9 +42,9 @@ title: "Recent Project"
 - 中间件：redis
 
 ### 3.  模型架构
-- v1.0：纯手撕的seq2seq模型(gru + luong attention的general attention + AdamW)
+- v1.0：纯手撕的seq2seq模型(gru + luong attention的general attention + SgdM)
 
-- v2.0：fine-tune预训练模型的seq2seq模型
+- v2.0：fine-tune预训练模型的seq2seq模型 + AdamW
   - encoder：q —— bert、transformer_encoder  —— q_embedding —— gru —— q_output
   - decoder：a —— gru —— a_embedding —— transformer_decoder、gpt2 ——  a_output
 
