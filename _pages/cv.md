@@ -15,6 +15,7 @@ redirect_from:
 * Awards: Outstanding Student Gold Award with the highest GPA(3.72/4.3) in Sem A at Major Level
 * Courses: Data Mining, Big Data & Social Media Analytics, Advanced Software Construction, Statistical Data Analysis, Database Management Systems, Applied Linear Statistical Modelling
 * Domestic Certification: Statistics
+
 **B.S. in Management Science & Engineering - Logistics Management, Beijing Normal University, Zhuhai, 2019**
   * GPA: 3.42/4 
   * Major Rank: 27/225 (top 12%)
@@ -51,7 +52,7 @@ redirect_from:
 * Used Technologies: ubuntu + git + pytorch + numpy + matplotlib + django + vue + mysql + redis + celery
 * Used Model: seq2seq(encoder: bert + transformer + gru, decoder: gru + transformer + gpt2)
 * [Link](https://renatz.github.io/project/)
-* [Alternate Link ](https://docs.qq.com/pdf/DQWh1Um1hdURZVFpP)
+* [Alternate Link](https://docs.qq.com/pdf/DQWh1Um1hdURZVFpP)
  
 05/2022-06/2022: Food Classification and Network Compression
 * Responsible for code optimization, model training (Kaggle competition)
