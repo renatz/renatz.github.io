@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-神而已。
+A cheerful genius.
 
 
 
