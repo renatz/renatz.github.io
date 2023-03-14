@@ -30,7 +30,10 @@ permalink: /cv/
 
 ## Research Interests
 * Natural Language Generation - Chatbot with personality
+* Compression of LLM
+* Few-Shot Learning
 * Fraud Detection
+
 
 ## Skills
 * Programming languages: python, golang, Java, cpp, R, JavaScript, html, css
