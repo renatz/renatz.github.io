@@ -48,7 +48,7 @@ title: "Recent Project"
   - encoder：q —— bert、transformer_encoder  —— q_embedding —— gru —— q_output
   - decoder：a —— gru —— a_embedding —— transformer_decoder、gpt2 ——  a_output
 
-- v3.0：修改注意力机制及编码的seq2seq模型
+- v3.0：基于CDialGPT的受控对话模型 + AdamW
   - 待优化
   - 参考：https://arxiv.org/pdf/1911.04700.pdf
 
