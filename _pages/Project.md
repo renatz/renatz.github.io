@@ -62,7 +62,8 @@ title: "Recent Project"
 - 算法架构
 
 <!-- <img src="assets/算法架构.png" alt="算法架构" style="zoom:50%;" /> -->
-  ![算法架构](assets/算法架构.png)
+  ![image](https://user-images.githubusercontent.com/73695787/233054700-d1eaaa07-fe06-4b0e-ad11-8a5c7b970c7a.png)
+
 
 - 后端架构
 
