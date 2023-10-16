@@ -22,11 +22,15 @@ permalink: /cv/
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 ## Research Experience
+**2023/05/08 - now** Working as a Research Assistant at The Chinese University of Hong Kong, Shenzhen
+* Reconstructed the Self-Instruct pipeline code for the team
+* Conducted the research on how LLMs can be applied to the user simulator
+
 **04/2019** Construction of Logistics Service Quality Model for Used E-Commerce Platforms (Xianyu App)
-* Preliminarily constructed the evaluation index system in term of SERVQUAL Model, the overall problems of logistics services of second-hand E-commerce platform and the factors in affecting quality
-* Built the final evaluation index system by Exploratory Factor Analysis (SPSS) through the first questionaire survey about the logistics services quality of second-hand E-commerce platform
-* Carried out the second questionnaire survey on Xianyu App to evaluate and analyze the logistics service quality by means of Fuzzy Hierarchical Comprehensive Evaluation (SPSS)
-* Awarded an outstanding thesis at College level
+* Preliminarily constructed the evaluation index system in terms of SERVQUAL Model, the overall problems of logistics services of second-hand E-commerce platform, and the factors affecting quality
+* Built the final evaluation index system by Exploratory Factor Analysis (SPSS) through the first questionnaire survey about the logistics services quality of second-hand E-commerce platform
+* Carried out the second questionnaire survey on the Xianyu App to evaluate and analyze the logistics service quality by means of Fuzzy Hierarchical Comprehensive Evaluation (SPSS)
+* Awarded an outstanding thesis at the College level
 
 ## Research Interests
 * Fraud Detection
