@@ -33,10 +33,8 @@ permalink: /cv/
 * Awarded an outstanding thesis at the College level
 
 ## Research Interests
+* Controlled Text Generation - Persona Control
 * Fraud Detection
-* Few-Shot Learning - prompt learning
-* Compression of LLM
-* Natural Language Generation - Chatbot with personality
 
 ## Skills
 * Programming languages: python, golang, Java, cpp, R, JavaScript, html, css
