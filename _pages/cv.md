@@ -23,8 +23,14 @@ permalink: /cv/
 
 ## Research Experience
 **2023/05/08 - now** Working as a Research Assistant at The Chinese University of Hong Kong, Shenzhen
-* Reconstructed the Self-Instruct pipeline code for the team
-* Conducted the research on how LLMs can be applied to the user simulator
++ Reconstructed the Self-Instruct pipeline code for the team
++ Conducted the research on how LLMs can be applied to the user simulator 
+ - Papers: **PlatoLM: Teaching LLMs via a Socratic Questioning User Simulator**
+   * arxiv: https://arxiv.org/abs/2308.11534v4
+   * code: https://github.com/FreedomIntelligence/PlatoLM
+   * model: https://huggingface.co/FreedomIntelligence/PlatoLM-7B
+      + has achieved SOTA performance from 2023/08 to 2023/10 in Alpaca-Eval and MT-Bench.
+   * dataset: https://huggingface.co/datasets/FreedomIntelligence/SocraticChat
 
 **04/2019** Construction of Logistics Service Quality Model for Used E-Commerce Platforms (Xianyu App)
 * Preliminarily constructed the evaluation index system in terms of SERVQUAL Model, the overall problems of logistics services of second-hand E-commerce platform, and the factors affecting quality
