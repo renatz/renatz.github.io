@@ -4,22 +4,9 @@ permalink: /cv/
 ---
 <!-- {% include base_path %} -->
 
-## Education
-**M.S. in Business and Data Analytics - Information System Stream**
-* City University of Hong Kong, 2021
-* GPA: 3.57/4.3
-* Graduated with distinction
-* Awards: Outstanding Student Gold Award with the highest GPA(3.72/4.3) in Sem A at Major Level
-* Courses: Data Mining, Big Data & Social Media Analytics, Advanced Software Construction, Statistical Data Analysis, Database Management Systems, Applied Linear Statistical Modelling
-* Domestic Certification: Statistics
-
-**B.S. in Management Science & Engineering - Supply Chain Direction**
-* Beijing Normal University, Zhuhai, 2019
-* GPA: 3.42/4 
-* Major Rank: 27/225 (top 12%)
-* Awards: Excellent Graduation Thesis at College Level, Third Prize Scholarship at College Level
-* Courses: Calculus, Operations Research, Linear Algebra, Applied Statistics, Forecasting and Decision Making, Logistics Information Systems, Probability Theory and Mathematical Statistics 
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+## Research Interests
+* Controlled Text Generation - Persona Control
+* Fraud Detection
 
 ## Research Experience
 **2023/05/08 - now** Working as a Research Assistant at The Chinese University of Hong Kong, Shenzhen
@@ -38,9 +25,22 @@ permalink: /cv/
 * Carried out the second questionnaire survey on the Xianyu App to evaluate and analyze the logistics service quality by means of Fuzzy Hierarchical Comprehensive Evaluation (SPSS)
 * Awarded an outstanding thesis at the College level
 
-## Research Interests
-* Controlled Text Generation - Persona Control
-* Fraud Detection
+## Education
+**M.S. in Business and Data Analytics - Information System Stream**
+* City University of Hong Kong, 2021
+* GPA: 3.57/4.3
+* Graduated with distinction
+* Awards: Outstanding Student Gold Award with the highest GPA(3.72/4.3) in Sem A at Major Level
+* Courses: Data Mining, Big Data & Social Media Analytics, Advanced Software Construction, Statistical Data Analysis, Database Management Systems, Applied Linear Statistical Modelling
+* Domestic Certification: Statistics
+
+**B.S. in Management Science & Engineering - Supply Chain Direction**
+* Beijing Normal University, Zhuhai, 2019
+* GPA: 3.42/4 
+* Major Rank: 27/225 (top 12%)
+* Awards: Excellent Graduation Thesis at College Level, Third Prize Scholarship at College Level
+* Courses: Calculus, Operations Research, Linear Algebra, Applied Statistics, Forecasting and Decision Making, Logistics Information Systems, Probability Theory and Mathematical Statistics 
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 ## Skills
 * Programming languages: python, golang, Java, cpp, R, JavaScript, html, css
@@ -81,7 +81,6 @@ permalink: /cv/
 * java: Built family income and expenditure bookkeeping system, customer information management system, development team staff scheduling system
 
 **Algorithm**
-* leetcode: 120+, newcoder: 120+
 * ML: regression, binary classification (rf, lr, fcn), multiclassification (xgb, lgb, catboost)
 * CV: image recognition (vgg16, resnet18-101), image generation (dcgan, wgan, wgan-gp), anomaly face detection (fcn-ae, cnn-ae, resnet18-ae, vae)
 * NLP: extractive question-and-answer prediction (bert), conversational bots (gru+luong attention), sentiment analysis
