@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-A cheerful genius.
+A meticulous and creative social phobia.
 
 Papers
 ======
