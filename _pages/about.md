@@ -10,9 +10,9 @@ redirect_from:
 
 About Me
 ======
-A happy person - online.
+I am a fourth-year PhD student in Computer Science at Hong Kong Baptist University (HKBU), advised by Dr. Jing Ma.
 
-A social phobia - offline.
+My goal is to construct virtual character dialogue agents that can hold long-term memories and maintain character consistency to motivate social phobia to be happy.
 
 
 **Research Interests**
@@ -22,7 +22,7 @@ A social phobia - offline.
 - **Controllable Text Generation**
 - Fraud Detection
 
-Papers
+Publications
 ======
 + PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator
 
