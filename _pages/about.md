@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a fourth-year PhD student in Computer Science at Hong Kong Baptist University (HKBU), advised by Dr. Jing Ma.
+I am a four-year PhD student in Computer Science at Hong Kong Baptist University (HKBU), advised by Dr. Jing Ma.
 
 My goal is to construct virtual character dialogue agents that can hold long-term memories, maintain character consistency, and motivate social phobia in real life to become happy. 
 
