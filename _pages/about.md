@@ -25,8 +25,9 @@ Publications
 ======
 + SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing Agents
 + Alias: Connection is all your need, role-played LLMs also take their stances based on the connection regardless of the factuality, much like the shameless human.
+  
   **Chuyi Kong**, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, Jing Ma*
-  **[ACL'25-Finding]**
+  **[ACL'25-Finding(May be withdraw)]**
   DEC ARR: OA Ranks <= top 12.67%, Meta = 4.
  
 
