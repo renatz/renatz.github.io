@@ -21,13 +21,14 @@ I am a four-year PhD student in Computer Science at Hong Kong Baptist University
 Publications
 ======
 + SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing Agents 
-  **Chuyi Kong**, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, Jing Ma
+  **Chuyi Kong**, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, Jing Ma*
   **[ACL'25-Finding]**
-  OA Ranks >= 12.67%, Meta = 4.  
+  DEC ARR: OA Ranks >= 12.67%, Meta = 4.  
 
 
 + PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator  
-  **Chuyi Kong**, Yaxin Fan, Xiang Wan, Feng Jiang, Benyou Wang  
+  **Chuyi Kong**, Yaxin Fan, Xiang Wan, Feng Jiang, Benyou Wang
+  **[ICLR'24]** 8/6/6/6, OA Ranks 13%, Rejected.
   **[ACL'24]** Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics.  
   Our model has achieved SoTA performance from 2023/08 to 2023/10 in Alpaca-Eval and MT-Bench.  
   [[arxiv](https://arxiv.org/abs/2308.11534v5)][[code](https://github.com/FreedomIntelligence/PlatoLM)][[model](https://huggingface.co/FreedomIntelligence/PlatoLM-7B)][[dataset](https://huggingface.co/datasets/FreedomIntelligence/SocraticChat)]
