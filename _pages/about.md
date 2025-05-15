@@ -10,7 +10,8 @@ redirect_from:
 
 About Me
 ======
-I am a four-year PhD student in Computer Science at Hong Kong Baptist University (HKBU).
+I am a PhD student in Computer Science at Hong Kong Baptist University (HKBU).
+
 My goal is to collect rejection/finding cases from high-ranking tiers of major top conferences,
 because I want to see how much someone with zero connections can achieve against the odds.
 
