@@ -10,7 +10,8 @@ redirect_from:
 
 About Me
 ======
-I am a four-year PhD student in Computer Science at Hong Kong Baptist University (HKBU), advised by Dr. Jing Ma.
+I am a four-year PhD student in Computer Science at Hong Kong Baptist University (HKBU).
+My goal is to collect rejection/finding cases from high-ranking tiers of major top conferences.
 
 **Research Interests**
 - Natural Language Processing
@@ -23,11 +24,11 @@ Publications
 + SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing Agents 
   **Chuyi Kong**, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, Jing Ma*
   **[ACL'25-Finding]**
-  DEC ARR: OA Ranks >= 12.67%, Meta = 4.  
+  DEC ARR: OA Ranks <= top 12.67%, Meta = 4.  
 
 
 + PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator  
-  **Chuyi Kong**, Yaxin Fan, Xiang Wan, Feng Jiang, Benyou Wang
+  **Chuyi Kong**, Yaxin Fan, Xiang Wan, Feng Jiang*, Benyou Wang.
   **[ICLR'24]** 8/6/6/6, OA Ranks 13%, Rejected.
   **[ACL'24]** Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics.  
   Our model has achieved SoTA performance from 2023/08 to 2023/10 in Alpaca-Eval and MT-Bench.  
