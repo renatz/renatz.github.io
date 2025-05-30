@@ -23,15 +23,16 @@ because I want to see how much someone with zero connections can achieve against
 
 Publications
 ======
-+ SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing Agents
-+ Alias: Connection is all your need, role-played LLMs also take their stances based on the connection regardless of the factuality, much like the shameless human.
++ SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs.
++ Alias: Connection is all your need, role-played LLMs also take their stances based on the connection, regardless of the factuality, much like the shameless human.
   
   **Chuyi Kong**, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, Jing Ma*
-  **[ACL'25-Finding(May be withdraw)]**
+  
+  **[ACL'25-Finding]**
   DEC ARR: OA Ranks <= top 12.67%, Meta = 4.
+
+  [[arxiv](https://arxiv.org/abs/2411.07965v4)]
  
-
-
 + PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator  
   **Chuyi Kong**, Yaxin Fan, Xiang Wan, Feng Jiang*, Benyou Wang.
   
