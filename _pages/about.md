@@ -29,7 +29,7 @@ Publications
   
   **Chuyi Kong**, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, Jing Ma*
   
-  **[ACL'25-Finding]** DEC ARR: OA Ranks <= top 12.67% according to ARR statistics, Meta = 4.
+  **[ACL'25-Finding]** DEC ARR: OA Ranks <= top 12.67% according to ARR statistics, Meta 4.
 
   [[arxiv](https://arxiv.org/abs/2411.07965v4)]
  
