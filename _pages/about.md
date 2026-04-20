@@ -26,7 +26,7 @@ Publications
 
   **Chuyi Kong**, Gao Wei, Jing Ma, Hongzhan Lin, Yuxi Sun
 
-  **[ACL'26-Main]** (recommend [[arxiv](https://arxiv.org/abs/2511.20233v3)] v3 version, as the final camera-ready and v1,v2 versions incorporate the framing of a non–first author outside the NLP field.)
+  **[ACL'26-Main]** [[arxiv](https://arxiv.org/abs/2511.20233v3)] [[code](https://github.com/renatz/REFLEX)] 
   
 + SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs.
   
