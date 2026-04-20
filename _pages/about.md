@@ -10,10 +10,9 @@ redirect_from:
 
 About Me
 ======
-I am a PhD student in Computer Science at Hong Kong Baptist University (HKBU).
+I am a PhD student in Computer Science.
 
-My goal is to collect rejection/finding cases from high-ranking tiers of major top conferences,
-because I want to see how much someone with zero connection can achieve against the odds.
+My goal is to bring virtual characters to life to accompany people with social anxiety.
 
 **Research Interests**
 - Natural Language Processing
@@ -23,6 +22,12 @@ because I want to see how much someone with zero connection can achieve against 
 
 Publications
 ======
++ REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control
+
+  **Chuyi Kong**, Gao Wei, Jing Ma, Hongzhan Lin, Yuxi Sun
+
+  **[ACL'26-Main]** (recommend [[arxiv](https://arxiv.org/abs/2511.20233v3)] versions, as the final camera-ready and v1 version incorporate the framing of a non–first author outside the NLP field.)
+  
 + SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs.
   
   Alias: Connection is all your need, role-played LLMs also take their stances based on the connection, regardless of the factuality, much like the shameless human.
@@ -32,6 +37,7 @@ Publications
   **[ACL'25-Finding]** DEC ARR: OA Ranks >= top 12.67% according to ARR statistics, Meta 4.
 
   [[arxiv](https://arxiv.org/abs/2411.07965v4)]
+  [[dataset](https://github.com/renatz/SHARP)]
  
 + PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator  
   **Chuyi Kong**, Yaxin Fan, Xiang Wan, Feng Jiang*, Benyou Wang.
