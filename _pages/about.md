@@ -28,8 +28,6 @@ Publications
 
   **[ACL'26-Main]** [[arxiv](https://arxiv.org/abs/2511.20233v3)] [[code](https://github.com/renatz/REFLEX)]
   
-  (recommend [[arxiv](https://arxiv.org/abs/2511.20233v3)] v3 version, as the final camera-ready and v1,v2 versions incorporate the framing of a non–first author outside the NLP field.)
-  
 + SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs.
   
   Alias: Connection is all your need, role-played LLMs also take their stances based on the connection, regardless of the factuality, much like the shameless human.
