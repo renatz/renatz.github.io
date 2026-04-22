@@ -21,8 +21,11 @@ My goal is to bring virtual characters to life to accompany people with social a
 - Controllable Text Generation
 
 Publications
+======
 
-[Semantic Scholar](https://www.semanticscholar.org/author/Chuyi-Kong/2232952708) (Recommended — Google Scholar fails to track timely arXiv updates) [Google Scholar](https://scholar.google.com/citations?user=w5vcgWYAAAAJ&hl=zh-CN)
+[Semantic Scholar](https://www.semanticscholar.org/author/Chuyi-Kong/2232952708) (Recommended — Google Scholar fails to track timely arXiv updates) 
+
+[Google Scholar](https://scholar.google.com/citations?user=w5vcgWYAAAAJ&hl=zh-CN)
 
 + REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control
 
